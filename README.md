@@ -6,6 +6,7 @@
 
 - This project Ecommerce's Performance of Company X by Basic KPI & Segment customer by RFM Methods
 
+![Dashboard Visualization](https://github.com/CallmeNavin/P12_Ecommerce-Customer-Analysis/blob/main/Version%201/Visualization/Overview.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
@@ -45,11 +46,23 @@ _Explore more insights in the full Power BI dashboard_
 
 **_Key Findings_**
 
-- 
+- Home Category generates the highest revenue and AOV → customers are willing to spend more → sustainable profit driver.
+- Electronics Category records the highest total orders (best-sellers) but lowest revenue & AOV → popular in volume but not optimized for profitability → mainly acts as a traffic driver.
+- Customers tend to pay through credit cards, especially for Clothing & Electronics → indicating easier spending when credit options are available.
+- Revenue & Orders peak in mid-year (July–August) but decline sharply in Q4.
+- Customer Segmentation reveals a risky balance: Champions nearly equal Lost Customers, while Loyal & Potential segments remain underdeveloped (<6%) → although high-value customers exist, churn risk is also significant.
 
 **_Actionable Plans_**
 
-- 
+- Category Strategy: Leverage Electronics as entry products, then design targeted cross-sell campaigns to Home items (e.g., desk, furniture, lighting for electronic buyers).
+- Payment Method Strategy: Strengthen partnerships with banks (cashback, credit card promotions), especially for Clothing & Electronics.
+- Seasonality Strategy: Maintain strong mid-year sales campaigns, but introduce additional Q4 incentives (Holiday Season, Black Friday, Christmas) to stabilize year-end performance.
+- Customer Loyalty Strategy:
+  + Develop exclusive care programs for Champions (membership, premium offers).
+  + Convert Potential → Loyal by:
+    - Lowering loyalty thresholds by customer tier (e.g., fewer orders required to upgrade status).
+    - Offering personalized recommendations based on last purchase.
+    - Launching double-incentive campaigns to increase both frequency & monetary value (e.g., “Order within 14 days → +200 points. Orders above $60 → extra 10% voucher”).
 
 **E. Appendix**
 
