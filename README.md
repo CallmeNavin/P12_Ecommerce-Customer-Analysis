@@ -6,7 +6,7 @@
 
 - This project Ecommerce's Performance of Company X by Basic KPI & Segment customer by RFM Methods
 
-![Dashboard Visualization](https://github.com/CallmeNavin/P12_Ecommerce-Customer-Analysis/blob/main/Version%201/Visualization/Overview.png)
+![Dashboard Visualization](https://github.com/CallmeNavin/P12_Ecommerce-Customer-Analysis/blob/main/Version%201/Visualization/Dashboard.png)
 _Explore more insights in the full Power BI dashboard_
 
 **B. Dataset Information**
